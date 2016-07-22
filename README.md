@@ -1,10 +1,10 @@
 # hall-launcher
 The android launcher everybody missed to create
 
-α   No menu (all on screen)
-β   Sub folders
-γ   Integrated file explorer
-ε   hand friendly ready (down -left or right- gravity)
+α   No menu (all on screen)   
+β   Sub folders   
+γ   Integrated file explorer   
+ε   hand friendly ready (down -left or right- gravity)   
 θ   
 κ   
 π   
