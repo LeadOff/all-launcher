@@ -1,11 +1,11 @@
-# hall-launcher
+# auto-launcher
 The android launcher everybody missed to create
 
-α   No menu (all on screen)   
-β   Sub folders   
-γ   Integrated file explorer   
-ε   hand friendly ready (down -left or right- gravity)   
-θ   
+α   Totally free (no ads)   
+β   No menu (all on screen)   
+γ   Sub folders   
+ε   Integrated file explorer   
+θ   hand friendly ready (down -left or right- gravity) 
 κ   
 π   
 ρ   
