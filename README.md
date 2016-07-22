@@ -16,7 +16,7 @@ The android launcher everybody missed to create
 ℧	   
 ϝ   
 
-Ⅰ  No external libraries (no dépendencies)
+Ⅰ  No external libraries (no dépendencies)   
 Ⅱ  
 Ⅲ   
 Ⅳ   
