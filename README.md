@@ -5,8 +5,8 @@ The android launcher everybody missed to create
 β   No menu (all on screen)   
 γ   Sub folders   
 ε   Integrated file explorer   
-θ   hand friendly ready (down -left or right- gravity) 
-κ   
+θ   Hand friendly ready (down -left or right- gravity) 
+κ   notification / sms TTS
 π   
 ρ   
 σ   
